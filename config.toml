@@ -1,10 +1,10 @@
-baseURL = "https://dev-is.my.id/"
+baseURL = "https://akunewb.github.io/hugoink/"
 languageCode = "en-us"
-title = "Devnote!"
+title = "akunewb"
 
 theme = "hugo-ink"
 
-copyright = "© Devlovers ID"
+copyright = "© Akunewb ID"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -12,9 +12,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-77518382-12"
+googleAnalytics = "ua"
 # Your Disqus sortname.
-disqusShortname = "devlovers-id"
+disqusShortname = "adminperhotelan"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 5
